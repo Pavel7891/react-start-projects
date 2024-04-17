@@ -16,6 +16,7 @@ const App = () => {
 <div><a href="s#">News</a></div>
 <div><a href="s#">Music</a></div>
 <div><a href="s#">Settings</a></div>
+<div><a href="#">Mail</a></div> 
        </nav>
        <div className="content">
         <div><img alt="" src="https://wallpapers.com/images/high/sea-sunset-full-screen-desktop-bpaz7ltpr4alkcc8.webp"></img></div>
